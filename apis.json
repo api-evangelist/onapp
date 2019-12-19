@@ -1,0 +1,73 @@
+{
+    "name": "OnApp",
+    "description": "A complete platform for public, private & hybrid cloud, CDN, storage & DR, with instant scale via a global cloud marketplace. VMware, Xen, KVM, EC2.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1230-onapp.jpg",
+    "tags": [
+        "api provider",
+        "cloud",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/onapp\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OnApp",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1230-onapp.jpg",
+            "humanURL": "http:\/\/onapp.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/onapp-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/onapp.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/onapp.com\/feeds\/blog\/4442771d95722374cc693b3b5dd56e0f"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/onapp"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/onapp"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/docs.onapp.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "info@onapp.com"
+        },
+        {
+            "type": "Email",
+            "url": "notices@onapp.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/OnApp"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/onapp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/onapp.com"
+        }
+    ]
+}
